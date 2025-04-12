@@ -56,7 +56,7 @@ all sinhala songs in one page
         Your browser does not support the audio element.
       </audio>
       <a class="download-link" href="songs/chandrikava.mp3" download>Download</a>
-    </div>
+    </div>div>
 
     <div class="song">
       <h3> රාවණා .(Ravana) – Yaka Crew</h3>
@@ -85,7 +85,7 @@ all sinhala songs in one page
       <a class="download-link" href="songs/dagare.mp3" download>Download</a>
     </div>
 
-    <!-- Add more Sinhala songs below -->
+ 
   </main>
 </body>
 </html>
