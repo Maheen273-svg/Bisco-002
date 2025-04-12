@@ -59,18 +59,18 @@ all sinhala songs in one page<!DOCTYPE html>
     </div>
 
     <div class="song">
-      <h3>සඳවතේ (Sandawathe) – Sanuka</h3>
+      <h3> රාවණා .(Ravana) – Yaka Crew</h3>
       <audio controls>
-        <source src="songs/sandawathe.mp3" type="audio/mpeg">
+        <source src="Ravana(Yaka Crew Band Live) - Chanuka Mora, Yaka Crew [www.sangeethe.com].mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
       <a class="download-link" href="songs/sandawathe.mp3" download>Download</a>
     </div>
 
     <div class="song">
-      <h3>ඔයෙ ආදරෙයි (Oye Adarei) – Rookantha Gunathilake</h3>
+      <h3>හ‌දේ උපන් ලදේ(hade upan lade) – Rookantha Gunathilake</h3>
       <audio controls>
-        <source src="songs/oye-adarei.mp3" type="audio/mpeg">
+        <source src=" Hade Upan Lande (DJ Remix) - Dinesh Tharanga, Skay Jay [www.sangeethe.com].mp3"type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
       <a class="download-link" href="songs/oye-adarei.mp3" download>Download</a>
