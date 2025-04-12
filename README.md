@@ -50,9 +50,9 @@ all sinhala songs in one page<!DOCTYPE html>
   </header>
   <main>
     <div class="song">
-      <h3>චන්ද්‍රිකාව (Chandrikāva) – Bathiya & Santhush</h3>
+      <h3>දුම්බර මැණිකා. (Dumbara manika) –Dum</h3>
       <audio controls>
-        <source src="songs/chandrikava.mp3" type="audio/mpeg">
+        <source src="2023 Dumbara Manika - DJ Dulanjana Kawadi Beat Remix - Sawana.LK.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
       <a class="download-link" href="songs/chandrikava.mp3" download>Download</a>
