@@ -50,7 +50,7 @@ all sinhala songs in one page
   </header>
   <main>
     <div class="song">
-      <h3>දුම්බර මැණිකා. (Dumbara manika) –Dum</h3>
+      <h3>දුම්බර මැණිකා. (Dumbara manika) –Dilshan Maduranga</h3>
       <audio controls>
         <source src="2023 Dumbara Manika - DJ Dulanjana Kawadi Beat Remix - Sawana.LK.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
