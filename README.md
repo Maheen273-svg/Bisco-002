@@ -1,2 +1,92 @@
 # gajaga24
-all sinhala songs in one page
+all sinhala songs in one page<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sinhala Song Library</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fffdf6;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #ff8800;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    main {
+      padding: 2rem;
+    }
+    .song {
+      background: white;
+      border-radius: 10px;
+      padding: 1rem;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    .song h3 {
+      margin: 0 0 0.5rem;
+    }
+    .song audio {
+      width: 100%;
+      margin-top: 0.5rem;
+    }
+    .download-link {
+      display: inline-block;
+      margin-top: 0.5rem;
+      color: #ff8800;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🎶 Sinhala Song Library</h1>
+    <p>Enjoy your favorite Sinhala hits</p>
+  </header>
+  <main>
+    <div class="song">
+      <h3>චන්ද්‍රිකාව (Chandrikāva) – Bathiya & Santhush</h3>
+      <audio controls>
+        <source src="songs/chandrikava.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+      <a class="download-link" href="songs/chandrikava.mp3" download>Download</a>
+    </div>
+
+    <div class="song">
+      <h3>සඳවතේ (Sandawathe) – Sanuka</h3>
+      <audio controls>
+        <source src="songs/sandawathe.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+      <a class="download-link" href="songs/sandawathe.mp3" download>Download</a>
+    </div>
+
+    <div class="song">
+      <h3>ඔයෙ ආදරෙයි (Oye Adarei) – Rookantha Gunathilake</h3>
+      <audio controls>
+        <source src="songs/oye-adarei.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+      <a class="download-link" href="songs/oye-adarei.mp3" download>Download</a>
+    </div>
+
+    <div class="song">
+      <h3>දඟරේ දඟරේ (Dagare Dagare) – Wasantha Dukgannarala</h3>
+      <audio controls>
+        <source src="songs/dagare.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+      <a class="download-link" href="songs/dagare.mp3" download>Download</a>
+    </div>
+
+    <!-- Add more Sinhala songs below -->
+  </main>
+</body>
+</html>
+
