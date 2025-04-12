@@ -1,5 +1,5 @@
 # gajaga24
-all sinhala songs in one page<!DOCTYPE html>
+all sinhala songs in one page
 <html lang="en">
 <head>
   <meta charset="UTF-8">
