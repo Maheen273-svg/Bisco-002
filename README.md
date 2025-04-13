@@ -1,92 +1,89 @@
-# gajaga24
+# Bisco Wipars
 all sinhala songs in one page
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Sinhala Song Library</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Innovations & Designs</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
   <style>
     body {
       font-family: Arial, sans-serif;
-      background: #fffdf6;
       margin: 0;
       padding: 0;
+      background: #f4f4f4;
     }
     header {
-      background: #ff8800;
+      background-color: #222;
       color: white;
-      padding: 1rem;
+      padding: 1rem 2rem;
+      display: flex;
+      align-items: center;
+    }
+    header img {
+      height: 50px;
+      margin-right: 15px;
+    }
+    header h1 {
+      margin: 0;
+    }
+    .container {
+      padding: 2rem;
       text-align: center;
     }
-    main {
-      padding: 2rem;
+    .container h2 {
+      font-size: 2rem;
+      color: #333;
     }
-    .song {
-      background: white;
-      border-radius: 10px;
-      padding: 1rem;
-      margin-bottom: 1.5rem;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    .container p {
+      font-size: 1.1rem;
+      color: #666;
+      max-width: 700px;
+      margin: 1rem auto;
     }
-    .song h3 {
-      margin: 0 0 0.5rem;
-    }
-    .song audio {
-      width: 100%;
-      margin-top: 0.5rem;
-    }
-    .download-link {
+    .join-button {
       display: inline-block;
-      margin-top: 0.5rem;
-      color: #ff8800;
+      margin-top: 20px;
+      padding: 10px 20px;
+      font-size: 1rem;
+      background-color: #007BFF;
+      color: white;
+      border: none;
+      border-radius: 5px;
       text-decoration: none;
+      transition: background 0.3s;
+    }
+    .join-button:hover {
+      background-color: #0056b3;
+    }
+    footer {
+      background-color: #222;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      position: relative;
+      bottom: 0;
+      width: 100%;
     }
   </style>
 </head>
 <body>
+
   <header>
-    <h1>🎶 Sinhala Song Library</h1>
-    <p>Enjoy your favorite Sinhala hits</p>
+    <img src="https://via.placeholder.com/50" alt="Logo">
+    <h1>Innovations & Designs</h1>
   </header>
-  <main>
-    <div class="song">
-      <h3>දුම්බර මැණිකා. (Dumbara manika) –Dilshan Maduranga</h3>
-      <audio controls>
-        <source src="2023 Dumbara Manika - DJ Dulanjana Kawadi Beat Remix - Sawana.LK.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-      <a class="download-link" href="songs/chandrikava.mp3" download>Download</a>
-    </div>
 
-    <div class="song">
-      <h3> රාවණා .(Ravana) – Yaka Crew</h3>
-      <audio controls>
-        <source src="Ravana(Yaka Crew Band Live) - Chanuka Mora, Yaka Crew [www.sangeethe.com].mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-      <a class="download-link" href="songs/sandawathe.mp3" download>Download</a>
-    </div>
+  <div class="container">
+    <h2>Discover the Future of Creativity</h2>
+    <p>Explore our latest innovations and cutting-edge designs that shape the future. Whether you're a designer, creator, or simply curious, join our community and stay inspired.</p>
+    <a href="https://forms.gle/your-google-form-link" target="_blank" class="join-button">Join Us</a>
+  </div>
 
-    <div class="song">
-      <h3>හ‌දේ උපන් ලදේ(hade upan lade) – Rookantha Gunathilake</h3>
-      <audio controls>
-        <source src=" Hade Upan Lande (DJ Remix) - Dinesh Tharanga, Skay Jay [www.sangeethe.com].mp3"type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-      <a class="download-link" href="songs/oye-adarei.mp3" download>Download</a>
-    </div>
+  <footer>
+    <p>Contact us: +1 (123) 456-7890</p>
+  </footer>
 
-    <div class="song">
-      <h3>දඟරේ දඟරේ (Dagare Dagare) – Wasantha Dukgannarala</h3>
-      <audio controls>
-        <source src="songs/dagare.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-      <a class="download-link" href="songs/dagare.mp3" download>Download</a>
-    </div>
-
- 
-  </main>
 </body>
 </html>
-
