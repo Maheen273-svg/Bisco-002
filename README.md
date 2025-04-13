@@ -1,5 +1,5 @@
 # Bisco Wipars
-all sinhala songs in one page
+Innovaters & Designers.
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -71,7 +71,7 @@ all sinhala songs in one page
 <body>
 
   <header>
-    <img src="https://via.placeholder.com/50" alt="Logo">
+    <img src="_70f9622e-6061-4435-8d0c-a158bf3834ac.jpg" alt="Logo">
     <h1>Innovations & Designs</h1>
   </header>
 
