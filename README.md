@@ -78,11 +78,11 @@ Innovaters & Designers.
   <div class="container">
     <h2>Discover the Future of Creativity</h2>
     <p>Explore our latest innovations and cutting-edge designs that shape the future. Whether you're a designer, creator, or simply curious, join our community and stay inspired.</p>
-    <a href="https://forms.gle/your-google-form-link" target="_blank" class="join-button">Join Us</a>
-  </div>
+    <a href="" class="join-button">Join Us</a>
+  </div>https://docs.google.com/forms/d/e/1FAIpQLSeAPBtZCYbn4tn_y5MIVR5fA42-rdHv8U0O9Y0mJTs8b9k6tQ/viewform?usp=dialog
 
   <footer>
-    <p>Contact us: +1 (123) 456-7890</p>
+    <p>Contact us: 077299905(coordinator)</p>
   </footer>
 
 </body>
